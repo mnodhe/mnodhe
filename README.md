@@ -1,7 +1,8 @@
-# 💫 About Me:
-I'm ش Senior Software Developer with over 6 Years of Expertise in JavaScript, TypeScript, React.js, Next.js, and Python 
-Open to Relocation
+# 🌟 **Welcome to My GitHub!**  
+### 🧑‍💻 **Front-End Developer | Problem Solver | Tech Enthusiast**  
+With over **5 years of experience**, I specialize in building user-friendly interfaces, crafting responsive designs, and solving intricate problems. Always learning, always growing. 🚀  
 
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mnodhe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mnodhe) 
 
