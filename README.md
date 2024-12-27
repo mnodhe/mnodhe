@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a front-end developer who has been solving problems for more than 5 years !!
+I'm ش Senior Software Developer with over 6 Years of Expertise in JavaScript, TypeScript, React.js, Next.js, and Python 
+Open to Relocation
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mnodhe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mnodhe) 
