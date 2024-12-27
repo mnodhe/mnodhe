@@ -1,6 +1,6 @@
 # 🌟 **Welcome to My GitHub!**  
-### 🧑‍💻 **Front-End Developer | Problem Solver | Tech Enthusiast**  
-With over **5 years of experience**, I specialize in building user-friendly interfaces, crafting responsive designs, and solving intricate problems. Always learning, always growing. 🚀  
+### 🧑‍💻 **Senior Software Developer | Problem Solver | Tech Enthusiast**  
+With over **6 years of experience**, I specialize in building user-friendly interfaces, crafting responsive designs, and solving intricate problems. Always learning, always growing. 🚀  
 
 ---
 ## 🌐 Socials:
